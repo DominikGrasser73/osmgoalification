@@ -1,0 +1,587 @@
+[
+  {
+    "id": 23294,
+    "name": "Tram 1: Eggenberg/UKH => Mariatrost",
+    "used": ""
+  },
+  {
+    "id": 27010,
+    "name": "Tram 7: Wetzelsdorf Burgenlandstraße => LKH Med Uni/Klinikum Nord",
+    "used": ""
+  },
+  {
+    "id": 27176,
+    "name": "Tram 5: Andritz => Puntigam",
+    "used": ""
+  },
+  {
+    "id": 27194,
+    "name": "Tram 4: Reininghaus => Liebenau",
+    "used": ""
+  },
+  {
+    "id": 27222,
+    "name": "Tram 3: Andritz => Krenngasse",
+    "used": ""
+  },
+  {
+    "id": 27223,
+    "name": "Tram 6: Smart City/Peter-Tunner-Gasse/tim => Sankt Peter",
+    "used": ""
+  },
+  {
+    "id": 32251,
+    "name": "3: Landgutstraße - Trauner Kreuzung",
+    "used": ""
+  },
+  {
+    "id": 32252,
+    "name": "1: Universität - Auwiesen",
+    "used": ""
+  },
+  {
+    "id": 32253,
+    "name": "2: Universität - solarCity",
+    "used": ""
+  },
+  {
+    "id": 150353,
+    "name": "50: Pöstlingberg - Hauptplatz",
+    "used": ""
+  },
+  {
+    "id": 367053,
+    "name": "Straßenbahn Gmunden 161: Engelhof => Hauptbahnhof",
+    "used": ""
+  },
+  {
+    "id": 910885,
+    "name": "Tram 49: Ring, Volkstheater => Hütteldorf",
+    "used": ""
+  },
+  {
+    "id": 910886,
+    "name": "Tram 49: Hütteldorf => Ring, Volkstheater",
+    "used": ""
+  },
+  {
+    "id": 962028,
+    "name": "Tram 6: Sankt Peter => Smart City/Peter-Tunner-Gasse/tim",
+    "used": ""
+  },
+  {
+    "id": 962057,
+    "name": "Tram 3: Krenngasse => Andritz",
+    "used": ""
+  },
+  {
+    "id": 962919,
+    "name": "Tram 1: Mariatrost => Eggenberg/UKH",
+    "used": ""
+  },
+  {
+    "id": 962994,
+    "name": "Tram 4: Liebenau => Reininghaus",
+    "used": ""
+  },
+  {
+    "id": 963683,
+    "name": "Tram 5: Puntigam => Andritz",
+    "used": ""
+  },
+  {
+    "id": 1149418,
+    "name": "2: solarCity - Universität",
+    "used": ""
+  },
+  {
+    "id": 1149419,
+    "name": "1: Auwiesen - Universität",
+    "used": ""
+  },
+  {
+    "id": 1149420,
+    "name": "50: Hauptplatz - Pöstlingberg",
+    "used": ""
+  },
+  {
+    "id": 1149421,
+    "name": "3: Trauner Kreuzung - Landgutstraße",
+    "used": ""
+  },
+  {
+    "id": 1172465,
+    "name": "N82: Universität - solarCity",
+    "used": ""
+  },
+  {
+    "id": 1172466,
+    "name": "N82: solarCity - Universität",
+    "used": ""
+  },
+  {
+    "id": 1306559,
+    "name": "Tram 10: Dornbach => Unter St. Veit",
+    "used": ""
+  },
+  {
+    "id": 1306560,
+    "name": "Tram 10: Unter St. Veit => Dornbach",
+    "used": ""
+  },
+  {
+    "id": 1306732,
+    "name": "Tram 9: Gersthof => Westbahnhof",
+    "used": ""
+  },
+  {
+    "id": 1306733,
+    "name": "Tram 9: Westbahnhof => Gersthof",
+    "used": ""
+  },
+  {
+    "id": 1729994,
+    "name": "Tram 2: Friedrich-Engels-Platz => Dornbach",
+    "used": ""
+  },
+  {
+    "id": 1729995,
+    "name": "Tram 2: Dornbach => Friedrich-Engels-Platz",
+    "used": ""
+  },
+  {
+    "id": 1780743,
+    "name": "Tram 60: Rodaun => Westbahnhof",
+    "used": ""
+  },
+  {
+    "id": 1780808,
+    "name": "Tram 60: Westbahnhof => Rodaun",
+    "used": ""
+  },
+  {
+    "id": 1780893,
+    "name": "Tram 62: Lainz, Wolkersbergenstr. => Oper, Karlsplatz",
+    "used": ""
+  },
+  {
+    "id": 1780894,
+    "name": "Tram 62: Oper, Karlsplatz => Lainz, Wolkersbergenstraße",
+    "used": ""
+  },
+  {
+    "id": 1799481,
+    "name": "Tram 44: Maroltingergasse => Schottentor",
+    "used": ""
+  },
+  {
+    "id": 1799482,
+    "name": "Tram 44: Schottentor => Maroltingergasse",
+    "used": ""
+  },
+  {
+    "id": 1800603,
+    "name": "Tram 52: Baumgarten => Westbahnhof",
+    "used": ""
+  },
+  {
+    "id": 1800604,
+    "name": "Tram 52: Westbahnhof => Baumgarten",
+    "used": ""
+  },
+  {
+    "id": 1808842,
+    "name": "Tram 46: Ring, Volkstheater => Joachimsthalerplatz",
+    "used": ""
+  },
+  {
+    "id": 1808843,
+    "name": "Tram 46: Joachimsthalerplatz => Ring, Volkstheater",
+    "used": ""
+  },
+  {
+    "id": 1809912,
+    "name": "Tram 18: Burggasse-Stadthalle => Schlachthausgasse",
+    "used": ""
+  },
+  {
+    "id": 1809913,
+    "name": "Tram 18: Schlachthausgasse => Burggasse-Stadthalle",
+    "used": ""
+  },
+  {
+    "id": 1912614,
+    "name": "Tram 43: Neuwaldegg => Schottentor",
+    "used": ""
+  },
+  {
+    "id": 1912615,
+    "name": "Tram 43: Schottentor => Neuwaldegg",
+    "used": ""
+  },
+  {
+    "id": 1912689,
+    "name": "Tram 42: Antonigasse => Schottentor",
+    "used": ""
+  },
+  {
+    "id": 1912690,
+    "name": "Tram 42: Schottentor => Antonigasse",
+    "used": ""
+  },
+  {
+    "id": 1912777,
+    "name": "Tram 40: Gersthof => Schottentor",
+    "used": ""
+  },
+  {
+    "id": 1912778,
+    "name": "Tram 40: Schottentor => Gersthof",
+    "used": ""
+  },
+  {
+    "id": 1918956,
+    "name": "Tram D: Nußdorf => Absberggasse",
+    "used": ""
+  },
+  {
+    "id": 1918957,
+    "name": "Tram D: Absberggasse => Nußdorf",
+    "used": ""
+  },
+  {
+    "id": 1990860,
+    "name": "Tram 6: Burggasse-Stadthalle => Geiereckstraße",
+    "used": ""
+  },
+  {
+    "id": 1990861,
+    "name": "Tram 6: Geiereckstraße => Burggasse-Stadthalle",
+    "used": ""
+  },
+  {
+    "id": 1991685,
+    "name": "Tram 1: Prater Hauptallee => Stefan-Fadinger-Platz",
+    "used": ""
+  },
+  {
+    "id": 1991686,
+    "name": "Tram 1: Stefan-Fadinger-Platz => Prater Hauptallee",
+    "used": ""
+  },
+  {
+    "id": 1996537,
+    "name": "Tram 11: Kaiserebersdorf => Otto-Probst-Platz",
+    "used": ""
+  },
+  {
+    "id": 1996538,
+    "name": "Tram 11: Otto-Probst-Platz => Kaiserebersdorf",
+    "used": ""
+  },
+  {
+    "id": 1996539,
+    "name": "Tram O: Bruno-Marek-Allee => Raxstraße/Rudolfshügelgasse",
+    "used": ""
+  },
+  {
+    "id": 1996540,
+    "name": "Tram O: Raxstraße/Rudolfshügelgasse => Bruno-Marek-Allee",
+    "used": ""
+  },
+  {
+    "id": 2005424,
+    "name": "Tram 33: Friedrich-Engels-Platz => Josefstädter Straße",
+    "used": ""
+  },
+  {
+    "id": 2005425,
+    "name": "Tram 33: Josefstädter Straße => Friedrich-Engels-Platz",
+    "used": ""
+  },
+  {
+    "id": 2005432,
+    "name": "Tram 5: Praterstern => Westbahnhof",
+    "used": ""
+  },
+  {
+    "id": 2005433,
+    "name": "Tram 5: Westbahnhof => Praterstern",
+    "used": ""
+  },
+  {
+    "id": 2005489,
+    "name": "Tram 31: Schottenring => Stammersdorf",
+    "used": ""
+  },
+  {
+    "id": 2005490,
+    "name": "Tram 31: Stammersdorf => Schottenring",
+    "used": ""
+  },
+  {
+    "id": 2005589,
+    "name": "Tram 30: Floridsdorf => Stammersdorf",
+    "used": ""
+  },
+  {
+    "id": 2005590,
+    "name": "Tram 30: Stammersdorf => Floridsdorf",
+    "used": ""
+  },
+  {
+    "id": 2005856,
+    "name": "Tram 26: Hausfeldstraße => Strebersdorf",
+    "used": ""
+  },
+  {
+    "id": 2005857,
+    "name": "Tram 26: Strebersdorf => Hausfeldstraße",
+    "used": ""
+  },
+  {
+    "id": 2024796,
+    "name": "Tram 71: Kaiserebersdorf => Schottenring",
+    "used": ""
+  },
+  {
+    "id": 2024797,
+    "name": "Tram 71: Schottenring=> Kaiserebersdorf",
+    "used": ""
+  },
+  {
+    "id": 2294914,
+    "name": "Tram 38: Grinzing => Schottentor",
+    "used": ""
+  },
+  {
+    "id": 2294915,
+    "name": "Tram 38: Schottentor => Grinzing",
+    "used": ""
+  },
+  {
+    "id": 2294968,
+    "name": "Tram 37: Hohe Warte => Schottentor",
+    "used": ""
+  },
+  {
+    "id": 2294969,
+    "name": "Tram 37: Schottentor => Hohe Warte",
+    "used": ""
+  },
+  {
+    "id": 2296589,
+    "name": "Tram 41: Pötzleinsdorf => Schottentor",
+    "used": ""
+  },
+  {
+    "id": 2296590,
+    "name": "Tram 41: Schottentor => Pötzleinsdorf",
+    "used": ""
+  },
+  {
+    "id": 2589671,
+    "name": "Tram 1: Innsbruck Bergisel => Mühlauer Brücke",
+    "used": ""
+  },
+  {
+    "id": 2589672,
+    "name": "Tram 1: Innsbruck Mühlauer Brücke => Bergisel",
+    "used": ""
+  },
+  {
+    "id": 2606573,
+    "name": "Tram STB: Fulpmes => Innsbruck",
+    "used": ""
+  },
+  {
+    "id": 2606574,
+    "name": "Tram STB: Innsbruck => Fulpmes",
+    "used": ""
+  },
+  {
+    "id": 2606577,
+    "name": "Tram STB: Innsbruck => Mutters",
+    "used": ""
+  },
+  {
+    "id": 2606578,
+    "name": "Tram STB: Mutters => Innsbruck",
+    "used": ""
+  },
+  {
+    "id": 2606593,
+    "name": "Tram 6: Innsbruck Bergisel => Igls",
+    "used": ""
+  },
+  {
+    "id": 2606594,
+    "name": "Tram 6: Igls Bahnhof => Innsbruck Bergisel",
+    "used": ""
+  },
+  {
+    "id": 2654654,
+    "name": "Tram 25: Aspern => Floridsdorf",
+    "used": ""
+  },
+  {
+    "id": 2654655,
+    "name": "Tram 25: Floridsdorf => Aspern",
+    "used": ""
+  },
+  {
+    "id": 2913895,
+    "name": "Tram 33: Augasse => Friedrich-Engels-Platz",
+    "used": ""
+  },
+  {
+    "id": 3289815,
+    "name": "Tram 33: Friedrich-Engels-Platz => Augasse",
+    "used": ""
+  },
+  {
+    "id": 6125428,
+    "name": "Tram 3: Innsbruck Anichstraße => Amras",
+    "used": ""
+  },
+  {
+    "id": 6432549,
+    "name": "Tram 3: Innsbruck Amras => Anichstraße",
+    "used": ""
+  },
+  {
+    "id": 6458029,
+    "name": "Tram 7: LKH Med Uni/Klinikum Nord => Wetzelsdorf Burgenlandstraße",
+    "used": ""
+  },
+  {
+    "id": 6576219,
+    "name": "4: Landgutstraße - Schloss Traun",
+    "used": ""
+  },
+  {
+    "id": 6576220,
+    "name": "4: Schloss Traun - Landgutstraße",
+    "used": ""
+  },
+  {
+    "id": 8318533,
+    "name": "Tram 2: Innsbruck Peerhofsiedlung => Kerschbaumer-Straße",
+    "used": ""
+  },
+  {
+    "id": 8318534,
+    "name": "Tram 2: Innsbruck Kerschbaumer-Straße => Peerhofsiedlung",
+    "used": ""
+  },
+  {
+    "id": 8318537,
+    "name": "Tram 5: Innsbruck Technik West => Rum Bahnhof",
+    "used": ""
+  },
+  {
+    "id": 8318538,
+    "name": "Tram 5: Rum Bahnhof => Technik West",
+    "used": ""
+  },
+  {
+    "id": 8636191,
+    "name": "Straßenbahn Gmunden 161: Hauptbahnhof => Engelhof",
+    "used": ""
+  },
+  {
+    "id": 12114218,
+    "name": "Tram 71: Schwarzenbergplatz => Kaiserebersdorf",
+    "used": ""
+  },
+  {
+    "id": 12114219,
+    "name": "Tram 71: Kaiserebersdorf => Schwarzenbergplatz",
+    "used": ""
+  },
+  {
+    "id": 12114220,
+    "name": "Tram 71: Kaiserebersdorf => Fickeysstraße",
+    "used": ""
+  },
+  {
+    "id": 12114221,
+    "name": "Tram 71: Fickeysstraße => Kaiserebersdorf",
+    "used": ""
+  },
+  {
+    "id": 12114353,
+    "name": "Tram 6: Leebgasse/Siccardsburggasse => Geiereckstraße",
+    "used": ""
+  },
+  {
+    "id": 12114354,
+    "name": "Tram 6: Geiereckstraße => Quellenplatz",
+    "used": ""
+  },
+  {
+    "id": 12114364,
+    "name": "Tram 11: Kaiserebersdorf => Fickeysstraße",
+    "used": ""
+  },
+  {
+    "id": 12114365,
+    "name": "Tram 11: Otto-Probst-Platz => Quellenplatz",
+    "used": ""
+  },
+  {
+    "id": 12478525,
+    "name": "Tram 71: Hauptwerkstätte => Schottenring",
+    "used": ""
+  },
+  {
+    "id": 12478526,
+    "name": "Tram 71: Hauptwerkstätte => Fickeysstraße",
+    "used": ""
+  },
+  {
+    "id": 12478527,
+    "name": "Tram 71: Fickeysstraße => Hauptwerkstätte",
+    "used": ""
+  },
+  {
+    "id": 12478528,
+    "name": "Tram 71: Schwarzenbergplatz => Hauptwerkstätte",
+    "used": ""
+  },
+  {
+    "id": 12478529,
+    "name": "Tram 71: Schottenring => Hauptwerkstätte",
+    "used": ""
+  },
+  {
+    "id": 12770825,
+    "name": "Tram U2Z: Schottenring => Bösendorferstraße, Karlsplatz",
+    "used": ""
+  },
+  {
+    "id": 12770826,
+    "name": "Tram U2Z: Bösendorferstraße, Karlsplatz => Schottenring",
+    "used": ""
+  },
+  {
+    "id": 13443921,
+    "name": "Tram 23: Jakominiplatz => Krenngasse",
+    "used": ""
+  },
+  {
+    "id": 13443922,
+    "name": "Tram 23: Krenngasse => Jakominiplatz",
+    "used": ""
+  },
+  {
+    "id": 14112553,
+    "name": "Museumstramway Mariazell - Erlaufsee",
+    "used": ""
+  },
+  {
+    "id": 16854680,
+    "name": "Lendcanaltramway",
+    "used": ""
+  }
+]

@@ -1,0 +1,532 @@
+[
+  {
+    "id": 195833,
+    "name": "Höllentalbahn",
+    "used": ""
+  },
+  {
+    "id": 374783,
+    "name": "RB 6/S6 München <=> Mittenwald <=> Innsbruck",
+    "used": ""
+  },
+  {
+    "id": 1025371,
+    "name": "Vlak S82: Retz => Znojmo",
+    "used": ""
+  },
+  {
+    "id": 1119487,
+    "name": "Feistritztalbahn",
+    "used": ""
+  },
+  {
+    "id": 1331901,
+    "name": "Jenbach - Achensee",
+    "used": ""
+  },
+  {
+    "id": 1571742,
+    "name": "Donauuferbahn (Wachau)",
+    "used": ""
+  },
+  {
+    "id": 1588280,
+    "name": "KBS 973 Kempten - Reutte",
+    "used": ""
+  },
+  {
+    "id": 1623486,
+    "name": "Innsbruck - Bludenz",
+    "used": ""
+  },
+  {
+    "id": 1760313,
+    "name": "Innsbruck - Garmisch - Pfronten",
+    "used": ""
+  },
+  {
+    "id": 1870914,
+    "name": "Salzburg - Kufstein - Brenner",
+    "used": ""
+  },
+  {
+    "id": 1870978,
+    "name": "Saalfelden - Wörgl - Innsbruck",
+    "used": ""
+  },
+  {
+    "id": 1871074,
+    "name": "Freilassing - Saalfelden",
+    "used": ""
+  },
+  {
+    "id": 1884017,
+    "name": "Wien - Wels - Passau",
+    "used": ""
+  },
+  {
+    "id": 1902681,
+    "name": "KBS 941 Mühldorf - Simbach (Südostbayernbahn)",
+    "used": ""
+  },
+  {
+    "id": 2174051,
+    "name": "Reißzug",
+    "used": ""
+  },
+  {
+    "id": 2211621,
+    "name": "Lainzer Tunnel",
+    "used": ""
+  },
+  {
+    "id": 2667196,
+    "name": "St. Andrä - Mauterndorf",
+    "used": ""
+  },
+  {
+    "id": 3284126,
+    "name": "Jenbach - Mayrhofen",
+    "used": ""
+  },
+  {
+    "id": 3546776,
+    "name": "Übelbacherbahn",
+    "used": ""
+  },
+  {
+    "id": 3633074,
+    "name": "Murtalbahn",
+    "used": ""
+  },
+  {
+    "id": 3659138,
+    "name": "Lokalbahn Wien - Baden",
+    "used": ""
+  },
+  {
+    "id": 3660335,
+    "name": "Lindau Hbf - Bludenz / St. Margrethen / Buchs SG",
+    "used": ""
+  },
+  {
+    "id": 3660337,
+    "name": "Bludenz - Schruns",
+    "used": ""
+  },
+  {
+    "id": 3670820,
+    "name": "KBS 965 Garmisch-Partenkirchen - Reutte",
+    "used": ""
+  },
+  {
+    "id": 3679479,
+    "name": "Zell am See - Krimml",
+    "used": ""
+  },
+  {
+    "id": 3680887,
+    "name": "Unzmarkt - Tamsweg",
+    "used": ""
+  },
+  {
+    "id": 3684570,
+    "name": "Salzburg - Lamprechtshausen / Ostermiething",
+    "used": ""
+  },
+  {
+    "id": 3691107,
+    "name": "Spittal-Millstättersee - San Candido/Innichen",
+    "used": ""
+  },
+  {
+    "id": 3736879,
+    "name": "Puchberg - Hochschneeberg",
+    "used": ""
+  },
+  {
+    "id": 3738035,
+    "name": "St. Wolfgang - Schafbergspitze",
+    "used": ""
+  },
+  {
+    "id": 3749639,
+    "name": "Wien Meidling - Gänserndorf - Břeclav / Marchegg",
+    "used": ""
+  },
+  {
+    "id": 3752196,
+    "name": "Linz - Salzburg",
+    "used": ""
+  },
+  {
+    "id": 3765439,
+    "name": "Wien - Wels - Simbach",
+    "used": ""
+  },
+  {
+    "id": 3765682,
+    "name": "Wien - Linz",
+    "used": ""
+  },
+  {
+    "id": 3765851,
+    "name": "Wien - Tullnerfeld - St. Pölten",
+    "used": ""
+  },
+  {
+    "id": 3765852,
+    "name": "Wien - Neulengbach - St. Pölten",
+    "used": ""
+  },
+  {
+    "id": 3770664,
+    "name": "Wien Handelskai - Wien Hütteldorf",
+    "used": ""
+  },
+  {
+    "id": 3774041,
+    "name": "Wien Hbf - Parndorf - Bratislava-P.",
+    "used": ""
+  },
+  {
+    "id": 3774042,
+    "name": "Wien Meidling - Parndorf - Győr / Eisenstadt",
+    "used": ""
+  },
+  {
+    "id": 3775247,
+    "name": "Wien Floridsdorf - Wolfsthal",
+    "used": ""
+  },
+  {
+    "id": 3775248,
+    "name": "Wien Mitte - Flughafen Wien",
+    "used": ""
+  },
+  {
+    "id": 3776085,
+    "name": "Villach - Arnoldstein - Hermagor / Tarvisio",
+    "used": ""
+  },
+  {
+    "id": 3782370,
+    "name": "Freilassing - Braunau",
+    "used": ""
+  },
+  {
+    "id": 3790904,
+    "name": "Attnang-Puchheim - Schärding",
+    "used": ""
+  },
+  {
+    "id": 3795821,
+    "name": "Linz Urfahr - Aigen-Schlägl",
+    "used": ""
+  },
+  {
+    "id": 3834857,
+    "name": "Linz - Niederspaching - Neumarkt-Kallham / Peuerbach",
+    "used": ""
+  },
+  {
+    "id": 3855633,
+    "name": "Vöcklabruck - Kammer-Schörfling",
+    "used": ""
+  },
+  {
+    "id": 3860430,
+    "name": "Linz - Summerau",
+    "used": ""
+  },
+  {
+    "id": 3881173,
+    "name": "Linz - Selzthal",
+    "used": ""
+  },
+  {
+    "id": 3897835,
+    "name": "Vöcklamarkt - Attersee",
+    "used": ""
+  },
+  {
+    "id": 3914462,
+    "name": "Wels - Grünau",
+    "used": ""
+  },
+  {
+    "id": 4103491,
+    "name": "Innsbruck - Fulpmes",
+    "used": ""
+  },
+  {
+    "id": 4640713,
+    "name": "Wien Hbf - Bruck an der Mur",
+    "used": ""
+  },
+  {
+    "id": 4640714,
+    "name": "Wien Hbf - Payerbach-Reichenau",
+    "used": ""
+  },
+  {
+    "id": 4640715,
+    "name": "Wien Hbf - Tarvisio",
+    "used": ""
+  },
+  {
+    "id": 4642911,
+    "name": "Leobersdorf - Weissenbach-Neuhaus",
+    "used": ""
+  },
+  {
+    "id": 4671291,
+    "name": "Wien Meidling - Stockerau - Absdorf-Hippersdorf / Znojmo",
+    "used": ""
+  },
+  {
+    "id": 4683259,
+    "name": "Vlak S82: Znojmo => Retz",
+    "used": ""
+  },
+  {
+    "id": 4718596,
+    "name": "Retz - Drosendorf",
+    "used": ""
+  },
+  {
+    "id": 4740507,
+    "name": "Krems - Sigmundsherberg",
+    "used": ""
+  },
+  {
+    "id": 4850720,
+    "name": "Wien - Krems",
+    "used": ""
+  },
+  {
+    "id": 4850721,
+    "name": "Wien - České Velenice",
+    "used": ""
+  },
+  {
+    "id": 4858513,
+    "name": "St. Pölten - Herzogenburg - Tulln - Wien",
+    "used": ""
+  },
+  {
+    "id": 4863836,
+    "name": "St. Pölten - Krems",
+    "used": ""
+  },
+  {
+    "id": 5120517,
+    "name": "Jenbach - Innsbruck - Telfs / Steinach",
+    "used": ""
+  },
+  {
+    "id": 5120995,
+    "name": "Salzburg - Klagenfurt",
+    "used": ""
+  },
+  {
+    "id": 5121181,
+    "name": "Bischofshofen - Leoben",
+    "used": ""
+  },
+  {
+    "id": 5949673,
+    "name": "Wienerwaldtunnel",
+    "used": ""
+  },
+  {
+    "id": 6429320,
+    "name": "Burgstaller Tunnel",
+    "used": ""
+  },
+  {
+    "id": 6979779,
+    "name": "Dienstbahn der Internationalen Rheinregulierung",
+    "used": ""
+  },
+  {
+    "id": 7017759,
+    "name": "Lavanttalbahn",
+    "used": ""
+  },
+  {
+    "id": 7501586,
+    "name": "Wien Hbf - Wr. Neustadt - Deutschkreutz",
+    "used": ""
+  },
+  {
+    "id": 8734619,
+    "name": "Draisinentour",
+    "used": ""
+  },
+  {
+    "id": 9672479,
+    "name": "Neue Westbahn - proposed & under construction sections",
+    "used": ""
+  },
+  {
+    "id": 10676698,
+    "name": "Ferrovia Rodolfiana",
+    "used": ""
+  },
+  {
+    "id": 11186346,
+    "name": "Graz - Köflach / Graz - Lieboch / Werndorf - Wies-Eibiswald",
+    "used": ""
+  },
+  {
+    "id": 11904495,
+    "name": "Wr. Neustadt - Puchberg",
+    "used": ""
+  },
+  {
+    "id": 11904496,
+    "name": "Wr. Neustadt - Gutenstein",
+    "used": ""
+  },
+  {
+    "id": 11906503,
+    "name": "Wr. Neustadt - Fehring",
+    "used": ""
+  },
+  {
+    "id": 11953893,
+    "name": "E.L.B.U.S Straßenbahn Unterach",
+    "used": ""
+  },
+  {
+    "id": 12078850,
+    "name": "Tullnerfelder Bahn",
+    "used": ""
+  },
+  {
+    "id": 12078851,
+    "name": "Kremser Bahn",
+    "used": ""
+  },
+  {
+    "id": 12671846,
+    "name": "Brennernordzulauf",
+    "used": ""
+  },
+  {
+    "id": 13150512,
+    "name": "Welserbahn, Teilstück Sattledt - Rohr",
+    "used": ""
+  },
+  {
+    "id": 15696406,
+    "name": "Rosentalbahn",
+    "used": ""
+  },
+  {
+    "id": 15696868,
+    "name": "Görtschitztalbahn",
+    "used": ""
+  },
+  {
+    "id": 15729471,
+    "name": "Rudolfsbahn",
+    "used": ""
+  },
+  {
+    "id": 16113180,
+    "name": "Thayatalbahn",
+    "used": ""
+  },
+  {
+    "id": 16113373,
+    "name": "Bahnstrecke Schwarzenau-Martinsberg-Gutenbrunn",
+    "used": ""
+  },
+  {
+    "id": 16126542,
+    "name": "Bahnstrecke Dobermannsdorf-Poysdorf",
+    "used": ""
+  },
+  {
+    "id": 16126543,
+    "name": "Lokalbahn Enzersdorf-Poysdorf",
+    "used": ""
+  },
+  {
+    "id": 16126672,
+    "name": "Rosentalbahn (Nostalgiebahn)",
+    "used": ""
+  },
+  {
+    "id": 16127041,
+    "name": "Feistritztalbahn (abgebaut)",
+    "used": ""
+  },
+  {
+    "id": 16871752,
+    "name": "Holzleithen - Thomasroith",
+    "used": ""
+  },
+   {
+    "id": 20309,
+    "name": "U3 Ottakring – Simmering",
+    "used": ""
+  },
+  {
+    "id": 22494,
+    "name": "U1 Oberlaa – Leopoldau",
+    "used": ""
+  },
+  {
+    "id": 27114,
+    "name": "U2 Schottentor – Aspernstraße",
+    "used": ""
+  },
+  {
+    "id": 2852864,
+    "name": "U4 Hütteldorf – Heiligenstadt",
+    "used": ""
+  },
+  {
+    "id": 2853012,
+    "name": "U6 Siebenhirten – Floridsdorf",
+    "used": ""
+  },
+  {
+    "id": 2919734,
+    "name": "U2 Aspernstraße – Schottentor",
+    "used": ""
+  },
+  {
+    "id": 2928575,
+    "name": "U3 Simmering – Ottakring",
+    "used": ""
+  },
+  {
+    "id": 2928586,
+    "name": "U1 Leopoldau – Oberlaa",
+    "used": ""
+  },
+  {
+    "id": 5954448,
+    "name": "U4 Heiligenstadt – Hütteldorf",
+    "used": ""
+  },
+  {
+    "id": 5954449,
+    "name": "U6 Floridsdorf – Siebenhirten",
+    "used": ""
+  },
+  {
+    "id": 14543015,
+    "name": "U2 Schottentor – Seestadt",
+    "used": ""
+  },
+  {
+    "id": 14543016,
+    "name": "U2 Seestadt – Schottentor",
+    "used": ""
+  }
+]
